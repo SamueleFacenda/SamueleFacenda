@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamueleFacenda
+- 👋 Hi, I’m Samuele Facenda
 - 👀 I’m studing CS at [ITT Buonarroti](https://www.buonarroti.tn.it/)
 - Interested in cybersecurity:lock:: [cyberchallenge](https://cyberchallenge.it/) 2022 partecipant, with UNITN, national competition partecipant
 - Interested in data science, deep learning and AI:alien: in general, thanks to [webvalley](https://webvalley.fbk.eu/) 2022
