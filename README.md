@@ -4,7 +4,7 @@
 - Interested in data science, deep learning and AI:alien: in general, thanks to [webvalley](https://webvalley.fbk.eu/) 2022
 - 🌱 I've learned/I'm learning C, Java, C++, Python, WebDev, AssemblyX86:skull:, Networking(CiscoIOS)
 - Also interested in Robots:robot:, ROS1&2 knowledge
-- Maybe you can find something at this personally hosted domain [samuele.ddns.net](http://samuele.ddns.net): http, shh or jupyter are maybe running:frog:
+- Maybe you can find something at this personally hosted domain [samuele.ddns.net](http://samuele.ddns.net): http, ssh or jupyter are maybe running:frog:
 
 <!---
 SamueleFacenda/SamueleFacenda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
