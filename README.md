@@ -19,3 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleFacenda&hide_border=true&langs_count=10)
+
+<!---
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SamueleFacenda)](https://github.com/anuraghazra/github-readme-stats)
+--->
