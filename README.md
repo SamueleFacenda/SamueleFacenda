@@ -16,4 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=SamueleFacenda&custom_title=Stats&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleFacenda&theme=gruvbox&layout=compact&hide_border=true)
+
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleFacenda&theme=gruvbox&hide_border=true&langs_count=10)
