@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/8337ddb1-ba24-4531-9919-acb5181cfe52.svg)](https://wakatime.com/@8337ddb1-ba24-4531-9919-acb5181cfe52)
 - 👋 Hi, I’m Samuele Facenda
 - 👀 I’m studing CS at [ITT Buonarroti](https://www.buonarroti.tn.it/)
 - Interested in cybersecurity:lock:: [cyberchallenge](https://cyberchallenge.it/) 2022 partecipant, with UNITN, national competition partecipant
@@ -20,6 +21,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleFacenda&hide_border=true&langs_count=10)
 
-<!---
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SamueleFacenda)](https://github.com/anuraghazra/github-readme-stats)
---->
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nene127)](https://github.com/anuraghazra/github-readme-stats)
+
