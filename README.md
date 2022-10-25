@@ -16,12 +16,21 @@ You can click the Preview link to take a look at your changes.
 
 
 
+<div align="center">
+<!---
+Grazie santeenee
+--->
+  
+  <details>    
+    <summary><b>Some stats</b></summary>
+  <br>
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=SamueleFacenda&custom_title=Stats&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
+
+  ![my github stats](https://github-readme-stats.vercel.app/api?username=SamueleFacenda&custom_title=Stats&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
 
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleFacenda&hide_border=true&langs_count=10)
+  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleFacenda&hide_border=true&langs_count=10)
 
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nene127)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nene127)](https://github.com/anuraghazra/github-readme-stats)
-
+</details>
