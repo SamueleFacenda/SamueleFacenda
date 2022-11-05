@@ -9,28 +9,40 @@
 - Also interested in Robots:robot:, ROS1&2 knowledge
 - Maybe you can find something at this personally hosted domain [samuele.ddns.net](http://samuele.ddns.net): http, ssh or jupyter are maybe running:frog:
 ![My Skills](https://skillicons.dev/icons?i=java,py,linux,git,github,c,cpp,discord,react,idea,pytorch,arduino)
+
 <!---
 SamueleFacenda/SamueleFacenda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 
-
 <div align="center">
-<!---
+
+<!--
+
 Grazie santeenee
---->
+-->
   
   <details>    
-    <summary><b>Some stats</b></summary>
-  <br>
+    <summary>
+      <b>Some stats</b>
+    </summary>
+    <br>
 
 
-  ![my github stats](https://github-readme-stats.vercel.app/api?username=SamueleFacenda&custom_title=Stats&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
+![my github stats](https://github-readme-stats.vercel.app/api?username=SamueleFacenda&custom_title=Stats&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleFacenda&hide_border=true&langs_count=10)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nene127)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </details>
+  
+  <details>    
+    <summary>
+      <b>Holopin badges</b>
+    </summary>
+    <br> 
+    
+[![@nene127's Holopin board](https://holopin.me/nene127)](https://holopin.io/@nene127)
 
-
-  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleFacenda&hide_border=true&langs_count=10)
-
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nene127)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
+  </details>
+</div>
