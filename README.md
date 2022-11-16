@@ -8,7 +8,7 @@
 - 🌱 I've learned/I'm learning C, Java, C++, Python, WebDev, AssemblyX86:skull:, Networking(CiscoIOS)
 - Also interested in Robots:robot:, ROS1&2 knowledge
 - Maybe you can find something at this personally hosted domain [samuele.ddns.net](http://samuele.ddns.net): http, ssh or jupyter are maybe running:frog:
-![My Skills](https://skillicons.dev/icons?i=java,py,linux,git,github,c,cpp,discord,react,idea,pytorch,arduino)
+![My Skills](https://skillicons.dev/icons?i=java,py,linux,git,github,c,cpp,discord,react,idea,pytorch,arduino,spring)
 
 <!---
 SamueleFacenda/SamueleFacenda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
