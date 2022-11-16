@@ -30,9 +30,16 @@ Grazie santeenee
     </summary>
     <br>
 
-
 ![my github stats](https://github-readme-stats.vercel.app/api?username=SamueleFacenda&custom_title=Stats&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleFacenda&hide_border=true&langs_count=10)
+    
+<!--
+questo e' buggato
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleFacenda&hide_border=true&langs_count=10&layout=compact)
+-->
+<!--
+iframe non e supportato
+    <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?SamueleFacenda" frameborder="0"></iframe>
+ -->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nene127)](https://github.com/anuraghazra/github-readme-stats)
   
   </details>
