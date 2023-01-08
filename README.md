@@ -41,7 +41,9 @@ iframe non e supportato
     <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?SamueleFacenda" frameborder="0"></iframe>
  -->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nene127)](https://github.com/anuraghazra/github-readme-stats)
-  
+    
+    
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamueleFacenda&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   </details>
   
   <details>    
