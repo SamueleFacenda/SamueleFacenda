@@ -2,19 +2,13 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=SamueleFacenda)
 
 - 👋 Hi, I’m Samuele Facenda
-- 👀 I’m studing CS at [ITT Buonarroti](https://www.buonarroti.tn.it/)
-- Interested in cybersecurity:lock:: [cyberchallenge](https://cyberchallenge.it/) 2022 partecipant, with UNITN, national competition partecipant
-- Interested in data science, deep learning and AI:alien: in general, thanks to [webvalley](https://webvalley.fbk.eu/) 2022
-- 🌱 I've learned/I'm learning C, Java, C++, Python, WebDev, AssemblyX86:skull:, Networking(CiscoIOS)
+- 👀 I’m studing CS at [unitn](https://www.disi.unitn.it/it)
+- Interested in cybersecurity:lock: [cyberchallenge](https://cyberchallenge.it/) 2022 partecipant, with UNITN, national competition partecipant
+- Interested in data science, deep learning and AI👽 in general, thanks to [webvalley](https://webvalley.fbk.eu/) 2022
+- 🌱 I've learned/I'm learning C, Java/Kotlin, C++, Python, WebDev, AssemblyX86💀, Networking(CiscoIOS), nixos❄️
 - Also interested in Robots:robot:, ROS1&2 knowledge
-- Maybe you can find something at this personally hosted domain [samuele.ddns.net](http://samuele.ddns.net): http, ssh or jupyter are maybe running:frog:
-![My Skills](https://skillicons.dev/icons?i=java,py,linux,git,github,c,cpp,discord,react,idea,pytorch,arduino,spring)
-
-<!---
-SamueleFacenda/SamueleFacenda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-aggiunta per badge yolo
---->
+- Maybe you can find something on my homeserver [samuele.ddns.net](http://samuele.ddns.net): http, ssh or jupyter are maybe running:frog:
+![My Skills](https://skillicons.dev/icons?i=java,py,linux,git,github,c,cpp,kotlin,react,idea,pytorch,arduino,spring)
 
 
 <div align="center">
