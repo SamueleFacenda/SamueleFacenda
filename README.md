@@ -3,11 +3,11 @@
 
 - 👋 Hi, I’m Samuele Facenda
 - 👀 I’m studing CS at [unitn](https://www.disi.unitn.it/it)
-- Interested in cybersecurity:lock: [cyberchallenge](https://cyberchallenge.it/) 2022 partecipant, with UNITN, national competition partecipant
+- Interested in cybersecurity :lock: [cyberchallenge](https://cyberchallenge.it/) 2022 partecipant, with UNITN, national competition partecipant
 - Interested in data science, deep learning and AI👽 in general, thanks to [webvalley](https://webvalley.fbk.eu/) 2022
 - 🌱 I've learned/I'm learning C, Java/Kotlin, C++, Python, WebDev, AssemblyX86💀, Networking(CiscoIOS), nixos❄️
-- Also interested in Robots:robot:, ROS1&2 knowledge
-- Maybe you can find something on my homeserver [samuele.ddns.net](http://samuele.ddns.net): http, ssh or jupyter are maybe running:frog:
+- Also interested in Robots :robot:, ROS1&2 knowledge
+- Maybe you can find something on my homeserver [samuele.ddns.net](http://samuele.ddns.net): http, ssh or jupyter are maybe running :frog:
 ![My Skills](https://skillicons.dev/icons?i=java,py,linux,git,github,c,cpp,kotlin,react,idea,pytorch,arduino,spring)
 
 
@@ -24,6 +24,7 @@ Grazie santeenee
     </summary>
     <br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamueleFacenda&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![my github stats](https://github-readme-stats.vercel.app/api?username=SamueleFacenda&custom_title=Stats&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
     
 <!--
@@ -37,7 +38,6 @@ iframe non e supportato
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nene127)](https://github.com/anuraghazra/github-readme-stats)
     
     
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamueleFacenda&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   </details>
   
   <details>    
