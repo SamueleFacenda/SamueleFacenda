@@ -3,11 +3,12 @@
 
 - 👋 Hi, I’m Samuele Facenda
 - 👀 I’m studing CS at [unitn](https://www.disi.unitn.it/it)
-- Interested in cybersecurity :lock: [cyberchallenge](https://cyberchallenge.it/) 2022 partecipant, with UNITN, national competition partecipant
+- I'm working at [FBK 3dom](https://3dom.fbk.eu/)
+- Interested in cybersecurity :lock: [cyberchallenge](https://cyberchallenge.it/) 2022 and 2025 participant with UNITN, national competition participant
 - Interested in data science, deep learning and AI👽 in general, thanks to [webvalley](https://webvalley.fbk.eu/) 2022
 - 🌱 I've learned/I'm learning C, Java/Kotlin, C++, Python, WebDev, AssemblyX86💀, Networking(CiscoIOS), nixos❄️
 - Also interested in Robots :robot:, ROS1&2 knowledge
-- Maybe you can find something on my homeserver [samuele.freeddns.it](https://samuele.freeddns.it): http, ssh or jupyter are maybe running :frog:
+- Maybe you can find something on my homeserver [samuele.freeddns.it](https://samuele.freeddns.it): there should be photoprism running :frog:
 ![My Skills](https://skillicons.dev/icons?i=java,py,linux,git,github,c,cpp,kotlin,react,idea,pytorch,arduino,spring)
 
 
